@@ -6,7 +6,7 @@ using namespace std;
  
  {
  	public://......method
- 	int x=10,y=10;
+ 	int x=10,y=10;//....initialization
  		
  };
  int main()
